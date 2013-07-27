@@ -60,7 +60,7 @@ Sont membres de l’Association, sur paiement de la cotisation fixée :
     + Sur une base volontaire et sur approbation du comité exécutif, toute personne étant ou ayant été membre de la communauté universitaire de l'UQAM;   
     + Toute autre personne désignée par le comité exécutif, conformément aux conditions d’admission décrétées par résolution du comité exécutif.   
     + Tout membre de l'Association est subordonné aux dispositions du présent règlement général relatives à la suspension, à l’expulsion et à la démission des membres.   
-
+   
 8. Cotisation   
 La cotisation des membres de l’Association est fixée par proposition en assemblée générale et votée par une majorité aux trois quarts. Elle est payable à chaque session; elle doit être payée lors de l’inscription ou suivant la procédure établie par le comité exécutif.   
 
@@ -157,7 +157,8 @@ Le vice-président aux affaires internes voit à la bonne marche, à l’élabor
 
 35. Vice-président aux technologies   
 Le vice-président aux technologies est en charge de l'entretien et la maintenance des équipements de l'Association, incluant les postes de travail, les serveurs, l’équipement réseau et l’équipement audio-visuel. Ses fonctions s’appliquent tant au niveau matériel que logiciel. Il est récipiendaire avec le président des mots de passe. Il est responsable de la préservation de la documentation électronique de l’Association. Connaissances suffisantes pré-requises.   
-Section 4.2 - Élection du comité exécutif   
+
+### Section 4.2 - Élection du comité exécutif   
 
 36. Mode d’élection   
 Tous les membres de comité exécutif sont élus par une proposition en assemblée générale, sauf le poste de vice-président. Le poste de vice-président exécutif est octroyée à un vice-président élu par un vote du comité exécutif lors de sa première assemblée après les élections.   
@@ -176,7 +177,8 @@ Si un poste devient vacant, pour quelque cause que ce soit, on procède à une n
 
 41. Démission   
 Tout membre du comité exécutif peut démissionner en remettant une lettre à cet effet au secrétaire exécutif. La démission devient effective immédiatement ou après une période jugée suffisante par le comité exécutif afin de transmettre les connaissances nécessaires à son successeur pour qu’il puisse accomplir ses tâches. Tout membre du comité exécutif est automatiquement démis de ses fonctions s’il accuse deux (2) absences consécutives jugées non justifiées par ses pairs aux réunions du comité exécutif. Le comité exécutif se réserve le droit de lever l’expulsion. Le membre expulsé sera avisé au moins une journée avant l’ouverture de son poste.   
-Section 4.3 - Réunions du comité exécutif   
+
+### Section 4.3 - Réunions du comité exécutif   
 
 42. Réunions régulières   
 Les réunions sont lancées par le président ou le vice-président.   
