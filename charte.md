@@ -234,7 +234,7 @@ peut exercer tout pouvoir qui lui est délégué par le comité exécutif.
 Le comité exécutif se compose d’un président, d’un vice-président exécutif, d’
 un secrétaire exécutif, d’un trésorier, d’un vice-président aux affaires 
 externes, d’un vice-président aux affaires internes, d’un vice-président aux 
-loisirs, et d’un vice-président aux technologies.   
+loisirs, d’un vice-président aux technologies et d’un vice-président aux compétitions.   
 
 28. Président   
 Le président est l’officier exécutif en chef de l'Association. Il convoque 
