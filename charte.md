@@ -315,7 +315,7 @@ le président des mots de passe. Il est responsable de la préservation de la
 documentation électronique de l’Association. Connaissances suffisantes 
 pré-requises.   
 
-35. Vice-président aux compétitions
+35. Vice-président aux compétitions    
 Le vice-président aux compétitions assure la représentations de l'AGEEI aux 
 diverses compétitions informatiques. Il instaure des méthodes de développement 
 des aptitudes techniques requises. Il est responsable d'organiser de 
@@ -356,7 +356,7 @@ deux fonctions jusqu’à la fin de son mandat; Dans le cas de toute vacance à
 l’un des autres postes après le 30 septembre, le comité exécutif élit un 
 membre postulant au poste vacant en fonction d’un vote du comité exécutif.   
 
-41. Démission   
+41. Démission    
 Tout membre du comité exécutif peut démissionner en remettant une lettre à cet 
 effet au secrétaire exécutif. La démission devient effective immédiatement ou 
 après une période jugée suffisante par le comité exécutif afin de transmettre 
