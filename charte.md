@@ -283,6 +283,7 @@ opérations financières et administratives de l'Association au vérificateur,
 avec les pièces justificatives. Connaissances suffisantes pré-requises.
 
 32. Vice-président aux communications
+
 Le vice-président aux affaires externes est responsable de la diffusion de l'
 information entourant les activités de l'Association (différents sites
 internets, réseaux sociaux, listes de diffusion, etc.). Il a pour mandat de
