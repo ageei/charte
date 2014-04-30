@@ -1,8 +1,8 @@
 ﻿<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<div style="margin:auto;width:75%">
+<div style="margin: auto; width: 75%">
 
-    <img style="display:block;margin-left:auto;margin-right:auto;" 
+    <img style="display: block; margin-left: auto; margin-right: auto;"
          src="http://www.ageei.org/sites/default/files/acquia_marina_logo.jpg" 
          alt="Logo AGEEI" 
          title="Logo" />
@@ -11,16 +11,13 @@
         Association Générale des étudiantes et étudiants en Informatique de l'UQAM
     </h1>
    
-    </br>
-    </br>
-    </br>
+    <br/>
     
-    <hr></hr>
-    <h3 style="text-align:center;">Charte</h3>
-    <hr></hr>
+    <hr/>
+    <h3 style="text-align: center;">Charte</h3>
+    <hr/>
 
-    </br>
-    </br>
+    <br/>
 
 </div>
 
