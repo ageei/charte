@@ -282,12 +282,12 @@ en ce qui a trait aux exercices financiers.  Le cas échéant, il soumet les
 opérations financières et administratives de l'Association au vérificateur, 
 avec les pièces justificatives. Connaissances suffisantes pré-requises.   
 
-32. Vice-président aux communications
+32. Vice-président aux communications   
 Le vice-président aux affaires externes est responsable de la diffusion de l'
 information entourant les activités de l'Association (différents sites 
 internets, réseaux sociaux, listes de diffusion, etc.). Il a pour mandat de 
 gérer l'image de l'Association ainsi que de créer des liens avec la communauté 
-(entreprises, groupes usagers, etc.).
+(entreprises, groupes usagers, etc.).   
 
 33. Vice-président aux loisirs   
 Le vice-président aux loisirs est responsable de l’organisation des activités 
@@ -422,7 +422,7 @@ nommer un secrétaire exécutif parmi les membres présents du comité exécutif
 Les comités de l’Association servent à traiter un enjeux de façon 
 participative. Le comité exécutif et l’assemblée générale ont le pouvoir de 
 former des comités selon les besoin de l’association en lui confiant des rôles 
-précis. 
+précis.   
 
 52. Composition   
 Un comité se compose d’au moins un exécutant du comité exécutif, ainsi qu’un 
