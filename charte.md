@@ -578,9 +578,6 @@ L'assemblée des gouverneurs de l'Association aide à maintenir le contact entre
 les membres, le comité exécutif, les membres ayant gradués, les étudiants en 
 informatique des cycles supérieurs ainsi que  les personnes oeuvrant dans le 
 milieu de l’informatique. Elle offre du support aux membres ainsi qu’au comité 
-exécutif. L'assemblée des gouverneurs de l'AGEEI aide à maintenir le contact 
-entre les membres, le comtié exécutif et les membres ayant gradués. Dans le 
-but d’aider les membres et offrir de l’assistance au comité 
 exécutif.   
 
 73. Composition   
