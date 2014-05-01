@@ -1,8 +1,8 @@
 ﻿<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<div style="margin:auto;width:75%">
+<div style="margin: auto; width: 75%">
 
-    <img style="display:block;margin-left:auto;margin-right:auto;" 
+    <img style="display: block; margin-left: auto; margin-right: auto;"
          src="http://www.ageei.org/sites/default/files/acquia_marina_logo.jpg" 
          alt="Logo AGEEI" 
          title="Logo" />
@@ -11,16 +11,13 @@
         Association Générale des étudiantes et étudiants en Informatique de l'UQAM
     </h1>
    
-    </br>
-    </br>
-    </br>
+    <br/>
     
-    <hr></hr>
-    <h3 style="text-align:center;">Charte</h3>
-    <hr></hr>
+    <hr/>
+    <h3 style="text-align: center;">Charte</h3>
+    <hr/>
 
-    </br>
-    </br>
+    <br/>
 
 </div>
 
@@ -282,12 +279,12 @@ en ce qui a trait aux exercices financiers.  Le cas échéant, il soumet les
 opérations financières et administratives de l'Association au vérificateur, 
 avec les pièces justificatives. Connaissances suffisantes pré-requises.   
 
-32. Vice-président aux communications
+32. Vice-président aux communications   
 Le vice-président aux affaires externes est responsable de la diffusion de l'
 information entourant les activités de l'Association (différents sites 
 internets, réseaux sociaux, listes de diffusion, etc.). Il a pour mandat de 
 gérer l'image de l'Association ainsi que de créer des liens avec la communauté 
-(entreprises, groupes usagers, etc.).
+(entreprises, groupes usagers, etc.).   
 
 33. Vice-président aux loisirs   
 Le vice-président aux loisirs est responsable de l’organisation des activités 
@@ -422,7 +419,7 @@ nommer un secrétaire exécutif parmi les membres présents du comité exécutif
 Les comités de l’Association servent à traiter un enjeux de façon 
 participative. Le comité exécutif et l’assemblée générale ont le pouvoir de 
 former des comités selon les besoin de l’association en lui confiant des rôles 
-précis. 
+précis.   
 
 52. Composition   
 Un comité se compose d’au moins un exécutant du comité exécutif, ainsi qu’un 
@@ -581,9 +578,6 @@ L'assemblée des gouverneurs de l'Association aide à maintenir le contact entre
 les membres, le comité exécutif, les membres ayant gradués, les étudiants en 
 informatique des cycles supérieurs ainsi que  les personnes oeuvrant dans le 
 milieu de l’informatique. Elle offre du support aux membres ainsi qu’au comité 
-exécutif. L'assemblée des gouverneurs de l'AGEEI aide à maintenir le contact 
-entre les membres, le comtié exécutif et les membres ayant gradués. Dans le 
-but d’aider les membres et offrir de l’assistance au comité 
 exécutif.   
 
 73. Composition   
