@@ -3,7 +3,7 @@
 <div style="margin: auto; width: 75%">
 
     <img style="display: block; margin-left: auto; margin-right: auto;"
-         src="http://www.ageei.org/sites/default/files/acquia_marina_logo.jpg" 
+         src="https://raw.githubusercontent.com/ageei/gestion/master/LOGO/AGEEI_logo2015.png?token=AIq8UkJwsGyZvT2gKp5G7QzlnPP-btYBks5XdBT-wA%3D%3D" 
          alt="Logo AGEEI" 
          title="Logo" />
 
