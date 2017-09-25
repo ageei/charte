@@ -7,23 +7,25 @@ Pour la liste des mises à jour, voir: [*commits*](https://github.com/ageei/char
 
 Liste des officiers :
 
--   Président exécutif: Marc-André Allard
--   VP Exécutif: Marc-Antoine Sauvé
--   Secrétaire: Nicolas Lamoureux
--   Trésorier: Nicolas Papanicolaou
--   VP Interne: Francis Robillard Bilodeau
--   VP Externe: Samuel Ethier
--   VP Technologie: Simon Xavier Zeni
--   VP Compétition: Felix Sempé-Bourdon
--   VP Loisir: Marie-Pier Lessard
+| Position           | Nom                  | Courriel                 |
+|--------------------|----------------------|--------------------------|
+| Président exécutif | Marie-Pier Léssard   | <president@ageei.org>    |
+| VP Exécutif        | Nicolas Lamoureux    | <president@ageei.org>    |
+| Secrétaire         | Marc - Andre Labelle | <tresorier@ageei.org>    |
+| Trésorier          | Koffi Ballo          | <secretaire@ageei.org>   |
+| VP Interne         | Ricardo Lima         | <interne@ageei.org>      |
+| VP Externe         | Vacant               | <exerne@ageei.org>       |
+| VP Technologie     | Philippe Grégoire    | <competition@ageei.org>  |
+| VP Compétition     | Nicolas Lamoureux    | <loisir@ageei.org>       |
+| VP Loisir          | Nicolas Papanicolaou | <technologies@ageei.org> |
 
-Liste des assembleurs :
+Liste des assembleurs (<gouverneurs@ageei.org>) :
 
--   Alexandre Terrasa
--   Daniel Leblanc
+-   Daniel LeBlanc
+-   Jean-Philippe Caissy
 -   Kerby Geffrard
--   Kevin Perreault
--   Marc-André Tremblay
+-   Marc-André Allard
+-   Marc-Antoine Sauvé
 -   Philippe Pépos Petitclerc
 
 Table des matières
@@ -80,7 +82,7 @@ L’association met à la disposition des membres plusieurs adresses électroniq
         -   <competition@ageei.org>: V.-p. aux compétitions
         -   <loisir@ageei.org>: V.-p. aux loisirs
         -   <technologies@ageei.org>: V.-p. aux technologies
-    -   [ambassadeurs@ageei.org](mailto:gouverneurs@ageei.org): Tous les ambassadeurs
+    -   <gouverneurs@ageei.org>: Tous les ambassadeurs
 
 ### Responsabilité légale
 
@@ -88,7 +90,7 @@ L’Association est légalement responsable, et dans ce cas seulement, de toute 
 
 ### Année universitaire
 
-L’année universitaire débute le premier jour de la session d’automne d’une année donnée et se termine la veille du premier jour de la session d’automne de l’année suivante..
+L’année universitaire débute le premier jour de la session d’automne d’une année donnée et se termine la veille du premier jour de la session d’automne de l’année suivante.
 
 ### Année fiscale
 
