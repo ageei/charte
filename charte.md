@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: charte.html
+---
 ![AGEEI Logo](https://github.com/ageei/charte/raw/master/AGEEI_logo2015.png "AGEEI Logo")
 
 Charte AGEEI
