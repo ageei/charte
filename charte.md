@@ -212,15 +212,15 @@ déterminée ou expulsés définitivement sur résolution du comité exécutif
 ou de l'assemblée générale. Dans ces deux cas de suspension ou d'expulsion,
 aucune cotisation ne sera remboursée.
 
-### Démission
+### Remboursement
 
-Tout membre pourra démissionner en adressant un avis écrit au secrétaire.
-Toute démission prendra effet à la date de sa réception par écrit au secrétaire.
-Aucune cotisation ne pourra être réclamée par un membre démissionnaire ni
-remboursée à celui-ci, à compter de la plus éloignée des deux dates suivantes :
-
--   le dixième jour ouvrable à compter du premier jour de la session courante;
--   la date prévue dans les règlements de l'UQAM à cet effet.
+L'association remboursera à tout étudiant et étudiante, qui lui en ferait la
+demande par écrit dans les quinze (15) jours ouvrables du début de la session, 
+le montant de la cotisation versée. Ce remboursement sera effectué au plus 
+tard dix (10) jours ouvrables après réception de la demande. L'étudiant et 
+étudiante comprend qu'en demandant de se faire rembourser,il ou elle renonce à être membre 
+de l'association et par la même occasion aux droits, services et privilèges qui
+s'y rattache.
 
 Ledit remboursement est valide pour la session courante seulement. Aucun
 remboursement ne peut être accordé pour des périodes antérieures ou à venir.
