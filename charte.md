@@ -13,13 +13,13 @@ Liste des officiers :
 |--------------------|----------------------|--------------------------|
 | Président exécutif | Marie-Pier Lessard   | <president@ageei.org>    |
 | VP Exécutif        | Nicolas Lamoureux    | <president@ageei.org>    |
-| Secrétaire         | Marc - Andre Labelle | <secretaire@ageei.org>    |
-| Trésorier          | Koffi Ballo          | <tresorier@ageei.org>   |
+| Secrétaire         | Marc - Andre Labelle | <secretaire@ageei.org>   |
+| Trésorier          | Koffi Ballo          | <tresorier@ageei.org>    |
 | VP Interne         | Ricardo Lima         | <interne@ageei.org>      |
-| VP Externe         | Vacant               | <exerne@ageei.org>       |
+| VP Externe         | Vacant               | <externe@ageei.org>      |
 | VP Technologie     | Philippe Grégoire    | <technologie@ageei.org>  |
-| VP Compétition     | Nicolas Lamoureux    | <competition@ageei.org>       |
-| VP Loisir          | Nicolas Papanicolaou | <loisir@ageei.org> |
+| VP Compétition     | Nicolas Lamoureux    | <competition@ageei.org>  |
+| VP Loisir          | Nicolas Papanicolaou | <loisir@ageei.org>       |
 
 Liste des assembleurs (<gouverneurs@ageei.org>) :
 
