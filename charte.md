@@ -428,7 +428,7 @@ groupes usagers, etc.).
 Le vice-président aux loisirs est responsable de l'organisation des activités
 votées en assemblée. Il est également responsable du suivi, de la logistique,
 des préparatifs et du déroulement de ces activités. Il supervise l'organisation
-de l'initiation et élabore de nouvelles activités
+de l'initiation et élabore de nouvelles activités.
 
 #### Vice-président aux compétitions.
 
