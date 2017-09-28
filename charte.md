@@ -25,7 +25,6 @@ Liste des assembleurs (<gouverneurs@ageei.org>) :
 
 -   Daniel LeBlanc
 -   Jean-Philippe Caissy
--   Kerby Geffrard
 -   Marc-André Allard
 -   Marc-Antoine Sauvé
 -   Philippe Pépos Petitclerc
