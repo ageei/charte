@@ -1,8 +1,3 @@
----
-layout: page
-title: Charte AGEEI
-permalink: charte.html
----
 ![AGEEI Logo](https://github.com/ageei/charte/raw/master/AGEEI_logo2015.png "AGEEI Logo")
 
 Pour la liste des mises à jour, voir: [*commits*](https://github.com/ageei/charte/commits/master)
