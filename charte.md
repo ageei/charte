@@ -129,7 +129,7 @@ Montréal QC H2X 3P2
 
 La case postale de l'association est :
 
-UQAM — AGEEI — SH-R345  
+UQAM - AGEEI - SH-R345  
 Case postale 8888  
 Succursale Centre-ville  
 Montréal QC H3C 3P8  
