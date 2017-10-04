@@ -187,9 +187,22 @@ Membres
 
 ### Définition
 
-Sont membres de l'Association, sur paiement de la cotisation fixée et de
-façon automatique, tous les étudiants inscrits à un programme de premier
-cycle en informatique à l'UQAM.
+Sont membres de l'Association, sur paiement de la cotisation fixée :
+
+    + De façon automatique, tous les étudiants inscrits à un programme
+      de premier cycle en informatique à l'UQAM;
+
+    + Sur une base volontaire et sur approbation du comité exécutif,
+      toute personne étant ou ayant été membre de la communauté
+      universitaire de l'UQAM;
+
+    + Toute autre personne désignée par le comité exécutif, conformément
+      aux conditions dadmission décrétées par résolution du comité
+      exécutif;
+
+Tout membre de l'Association est subordonné aux dispositions du présent
+règlement général relatives à la suspension, à l'expulsion et à la
+démission des membres.
 
 ### Cotisations
 
