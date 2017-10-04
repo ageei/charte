@@ -1,8 +1,3 @@
----
-layout: page
-title: Charte AGEEI
-permalink: charte.html
----
 ![AGEEI Logo](https://github.com/ageei/charte/raw/master/AGEEI_logo2015.png "AGEEI Logo")
 
 Pour la liste des mises à jour, voir: [*commits*](https://github.com/ageei/charte/commits/master)
@@ -126,23 +121,18 @@ Le siège social de l'association est établi à l'adresse suivante :
 
 Association générale des étudiantes et étudiants en informatique
 
-200 rue Sherbrooke Ouest
-
-Local SH-R345
-
-Montréal QC H2X 3P2
+200 rue Sherbrooke Ouest  
+Local SH-R345  
+Montréal QC H2X 3P2  
 
 ### Case postale
 
 La case postale de l'association est :
 
-UQAM - AGEEI - SH-R345
-
-Case postale 8888
-
-Succursale Centre-ville
-
-Montréal QC H3C 3P8
+UQAM — AGEEI — SH-R345  
+Case postale 8888  
+Succursale Centre-ville  
+Montréal QC H3C 3P8  
 
 ### Adresses électroniques
 
