@@ -16,15 +16,16 @@ Liste des officiers :
 | Secrétaire         | Marc-André Labelle   | <secretaire@ageei.org>   |
 | Trésorier          | Koffi Ballo          | <tresorier@ageei.org>    |
 | VP Interne         | Ricardo Lima         | <interne@ageei.org>      |
-| VP Externe         | *vacant*             | <externe@ageei.org>      |
+| VP Externe         | Francis Pelletier    | <externe@ageei.org>      |
 | VP Technologie     | Philippe Grégoire    | <technologie@ageei.org>  |
 | VP Compétition     | Nicolas Lamoureux    | <competition@ageei.org>  |
-| VP Loisir          | Nicolas Papanicolaou | <loisir@ageei.org>       |
+| VP Loisir          | Vincent Dansereau    | <loisir@ageei.org>       |
 
 Liste des assembleurs (<gouverneurs@ageei.org>) :
 
 -   Daniel LeBlanc
 -   Jean-Philippe Caissy
+-   Kerby Geffrard
 -   Marc-André Allard
 -   Marc-Antoine Sauvé
 -   Philippe Pépos Petitclerc
