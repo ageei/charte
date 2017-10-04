@@ -187,7 +187,7 @@ Sont membres de l'Association, sur paiement de la cotisation fixée :
       universitaire de l'UQAM;
 
     + Toute autre personne désignée par le comité exécutif, conformément
-      aux conditions dadmission décrétées par résolution du comité
+      aux conditions d'admission décrétées par résolution du comité
       exécutif;
 
 Tout membre de l'Association est subordonné aux dispositions du présent
