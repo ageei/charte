@@ -18,12 +18,11 @@ Liste des officiers :
 
 Liste des assembleurs (<gouverneurs@ageei.org>) :
 
--   Daniel LeBlanc
--   Jean-Philippe Caissy
+-   Lucas Bajolet
 -   Kerby Geffrard
--   Marc-André Allard
--   Marc-Antoine Sauvé
+-   Nicolas Papanicolaou
 -   Philippe Pépos Petitclerc
+-   Marc-Antoine Sauvé
 
 Table des matières
 ------------------
