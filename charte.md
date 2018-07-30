@@ -9,12 +9,12 @@ Liste des officiers :
 | Président exécutif | Marie-Pier Lessard   | <president@ageei.org>    |
 | VP Exécutif        | _(vacant)_           | <president@ageei.org>    |
 | Secrétaire         | Charles Therien      | <secretaire@ageei.org>   |
-| Trésorier          | _(vacant)_           | <tresorier@ageei.org>    |
+| Trésorier          | Louis-Bernard Poulin | <tresorier@ageei.org>    |
 | VP Interne         | Vincent Dansereau    | <interne@ageei.org>      |
 | VP Externe         | Francis Pelletier    | <externe@ageei.org>      |
 | VP Technologie     | Philippe Grégoire    | <technologie@ageei.org>  |
 | VP Compétition     | Philippe Van Velzen  | <competition@ageei.org>  |
-| VP Loisir          | _(vacant)_           | <loisir@ageei.org>       |
+| VP Loisir          | Luis-Gaylor Nobre    | <loisir@ageei.org>       |
 
 Liste des assembleurs (<gouverneurs@ageei.org>) :
 
