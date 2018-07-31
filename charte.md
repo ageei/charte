@@ -20,6 +20,7 @@ Liste des assembleurs (<gouverneurs@ageei.org>) :
 
 -   Lucas Bajolet
 -   Kerby Geffrard
+-   Nicolas Lamoureux
 -   Nicolas Papanicolaou
 -   Philippe Pépos Petitclerc
 -   Marc-Antoine Sauvé
